@@ -12,7 +12,6 @@ Projeto back-end desenvolvido como prova técnica. Contém endpoints básicos, l
 - Banco de dados: PostgreSQL / MongoDB (ajuste conforme o projeto) 🗄️
 - Testes: Jest / Mocha (opcional) ✅
 
-> Atualize essa seção com as tecnologias reais usadas no repositório.
 
 ## 🧩 Funcionalidades
 - ✨ Endpoints REST para CRUD
@@ -89,4 +88,4 @@ Adicione aqui a licença do projeto (ex.: MIT). Caso não tenha, adicione um arq
 
 ---
 
-Se quiser, eu adapto este README para comandos e tecnologias específicos do repositório (por exemplo: scripts reais, endpoints e exemplos de uso). Quer que eu insira instruções específicas baseadas no conteúdo atual do projeto? 🔍
+
